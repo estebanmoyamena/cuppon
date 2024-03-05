@@ -1,0 +1,16 @@
+el 21-2 hablaron de google fonts, se continuo el 22-2
+22-2 rem y em (diferencia con ejercicio)
+22-2 cajas 
+27-2-24
+ frameworks para ver 
+
+https://react.semantic-ui.com/usage/
+
+https://mui.com/
+
+Y bootstrap pero usado como componentes o widgets
+
+https://ng-bootstrap.github.io/#/home
+https://react-bootstrap.netlify.app/
+
+

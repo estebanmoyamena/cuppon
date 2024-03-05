@@ -1,0 +1,31 @@
+:root {
+    --open-sans: "Open Sans", sans-serif;
+    --regular: 400;
+    --bold: 700;
+    --black: #212529;
+    --white: white;
+    --pink: #e83e8c;
+    --blue: #17a2b8;
+
+  }
+
+  .os-regular{
+    font-family: var(--open-sans);
+    font-weight: var(--regular);
+  }
+  .os-bold{
+    font-family: var(--open-sans);
+    font-weight: var(--bold);
+  }
+  .c-pink{
+    color: var(--pink);
+  }
+  .c-white{
+    color: var(--white);
+  }
+  .c-black{
+    color: var(--black);
+  }
+  .c-blue{
+    color: var(--blue);
+  }
